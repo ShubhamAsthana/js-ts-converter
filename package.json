@@ -1,1 +1,16 @@
-{"name":"converter","version":"1.0.0","description":"","main":"index.js","scripts":{"convert":"node index.js","test":"echo \"Error: no test specified\" && exit 1","tsc":"tsc","start":"tsc && undefined"},"author":"shubham","license":"MIT","dependencies":{"@types/node":"latest","fs":"0.0.1-security","typescript":"latest","types/@node":"latest"}}
+{
+  "name": "js-ts-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubham",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.7.12",
+    "fs": "0.0.1-security"
+  }
+}
