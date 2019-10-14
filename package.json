@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/ShubhamAsthana/js-ts-converter"
   },
-  "keywords": ["js ts converter", "converter", "js to ts", "node ts converter"],
+  "keywords": ["js ts converter", "converter", "js to ts converter", "node ts converter"],
   "author": "shubham",
   "license": "MIT",
   "dependencies": {
