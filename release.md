@@ -1,4 +1,4 @@
-### We are glad to release version 2.0.0 for js-ts-converter.
+### We are glad to release version 1.0.4 for js-ts-converter.
   
 ##### You can access the package at [https://www.npmjs.com/package/js-ts-converter](https://www.npmjs.com/package/js-ts-converter)
 
