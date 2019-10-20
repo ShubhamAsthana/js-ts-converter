@@ -9,6 +9,7 @@
      $ npm run convert
      $ Select application preference
      $ Select application path
+     $ npm install inside your converted application
 #### Update app build path 
     open bin/www update app variable from '../app' to '../build/app' 
 ## Start your app
